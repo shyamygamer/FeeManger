@@ -1,0 +1,6 @@
+{
+  "name": "School Fee Manager",
+  "description": "School fee management app with student photo profiles, monthly payment status tracking, and 1-click WhatsApp payment reminders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
